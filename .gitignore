@@ -1,0 +1,30 @@
+# Entorno y configuración
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.clinerules/
+.python-version
+
+# Datos generados
+data/*
+!data/documentos_marketing.json
+!data/doc_*.json
+vectordb/*
+!vectordb/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# Archivos específicos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.idea/
+.vscode/
+*.swp
+*.swo
