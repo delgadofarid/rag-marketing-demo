@@ -19,7 +19,7 @@ Esta aplicación demuestra el poder de **Retrieval-Augmented Generation (RAG)** 
 
 ## 🔧 Requisitos
 
-- Python 3.12
+- [Python 3.12](https://www.python.org/downloads/)
 - Una clave API de Anthropic y/o OpenAI (según el proveedor que quieras usar)
 
 ## 📋 Instalación
